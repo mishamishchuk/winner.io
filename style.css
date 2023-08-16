@@ -543,15 +543,16 @@ html {
     transform: translateY(135%);
     text-align: center;
     text-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+    width: 65%;
+    margin: 0 auto;
   }
 
   .main__container {
-    background: url("resources/bg1.jpg") 50% no-repeat fixed;
+    background: url(resources/bg1.jpg) 50%/125% no-repeat fixed;
   }
 
   .reveal-holder {
     margin-top: 7vh;
-    width: 65%;
   }
 
   .portfolio__examples {
