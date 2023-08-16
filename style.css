@@ -546,7 +546,7 @@ html {
   }
 
   .main__container {
-    background: url(resources/bg1.jpg) 50%/125% no-repeat fixed;
+    background: url("resources/bg1.jpg") 50% no-repeat;
   }
 
   .reveal-holder {
