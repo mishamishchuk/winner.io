@@ -546,11 +546,12 @@ html {
   }
 
   .main__container {
-    background: url(resources/bg.jpg) 85%/325% no-repeat fixed;
+    background: url(resources/bg1.jpg) 50%/125% no-repeat fixed;
   }
 
   .reveal-holder {
-    margin-top: 6vh;
+    margin-top: 7vh;
+    width: 65%;
   }
 
   .portfolio__examples {
