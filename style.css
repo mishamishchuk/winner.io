@@ -563,6 +563,9 @@ html {
     grid-template-columns: repeat(1, 1fr);
     /* grid-auto-rows: 65px; */
   }
+
+  .middle {
+    display: none;
 }
 
 .portfolio__element {
